@@ -1,10 +1,44 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="STARMOVIEMIHDSTIRR.us" tvg-name="STAR MOVIEMI HD (STIRR)" tvg-country="US" tvg-language="English" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT2kTZnEQilym8ptRCEoFwFHsTvp0m_y-VOdvWZSFErs4Nyke_m&usqp=CAU" group-title="",STAR MOVIEMI HD (STIRR)
-https://sonar.sinclair.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="StarVijayHD.in" tvg-name="Star Vijay HD" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",Star Vijay HD
 http://185.180.221.194:8278/streams/d/starvijay/playlist.m3u8
 #EXTINF:-1 tvg-id="StarVijayUK.in" tvg-name="Star Vijay UK" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",Star Vijay UK
 http://fr1.zecast.com:1935/star-live/vijay.stream/playlist.m3u8
+#EXTINF:1 tvg-logo="http://192.168.0.102:3500/channelLogo/Jaya_TV_HD.png" group-title="Entertainment",Jaya TV HD 
+http://192.168.0.102:3500/getm3u8/419/Jaya_TV_HD/yes
+#EXTINF:1 tvg-logo="http://192.168.0.102:3500/channelLogo/Jaya_Max.png" group-title="Music",Jaya Max 
+http://192.168.0.102:3500/getm3u8/420/Jaya_Max/no
+#EXTINF:1 tvg-logo="http://192.168.0.102:3500/channelLogo/J_Movies.png" group-title="Movies",J Movies 
+http://192.168.0.102:3500/getm3u8/417/J_Movies/no
+#EXTINF:1 tvg-logo="http://192.168.0.102:3500/channelLogo/Zee_Tamil.png" group-title="Entertainment",Zee Tamil 
+http://192.168.0.102:3500/getm3u8/628/Zee_Tamil/no
+#EXTINF:1 tvg-logo="http://192.168.0.102:3500/channelLogo/Kalaignar_TV.png" group-title="Entertainment",Kalaignar TV 
+http://192.168.0.102:3500/getm3u8/1209/Kalaignar_TV/no
+#EXTINF:1 tvg-logo="http://192.168.0.102:3500/channelLogo/Raj_TV.png" group-title="Entertainment",Raj TV 
+http://192.168.0.102:3500/getm3u8/707/Raj_TV/no
+#EXTINF:1 tvg-logo="http://192.168.0.102:3500/channelLogo/Raj_Musix.png" group-title="Music",Raj Musix 
+http://192.168.0.102:3500/getm3u8/748/Raj_Musix/no
+#EXTINF:1 tvg-logo="http://192.168.0.102:3500/channelLogo/Colors_Tamil_HD.png" group-title="Entertainment",Colors Tamil HD 
+http://192.168.0.102:3500/getm3u8/429/Colors_Tamil_HD/yes
+#EXTINF:1 tvg-logo="http://192.168.0.102:3500/channelLogo/MK_TV.png" group-title="Entertainment",MK TV 
+http://192.168.0.102:3500/getm3u8/847/MK_TV/no
+#EXTINF:1 tvg-logo="http://192.168.0.102:3500/channelLogo/MK_Music.png" group-title="Music",MK Music 
+http://192.168.0.102:3500/getm3u8/845/MK_Music/no
+#EXTINF:1 tvg-logo="http://192.168.0.102:3500/channelLogo/Puthiya_Thalimurai.png" group-title="News",Puthiya Thalimurai 
+http://192.168.0.102:3500/getm3u8/677/Puthiya_Thalimurai/no
+#EXTINF:1 tvg-logo="http://192.168.0.102:3500/channelLogo/Thanthi_TV.png" group-title="News",Thanthi TV 
+http://192.168.0.102:3500/getm3u8/830/Thanthi_TV/no
+#EXTINF:1 tvg-logo="http://192.168.0.102:3500/channelLogo/Zee_Telugu.png" group-title="Entertainment",Zee Telugu 
+http://192.168.0.102:3500/getm3u8/638/Zee_Telugu/no
+#EXTINF:1 tvg-logo="http://192.168.0.102:3500/channelLogo/Zee_Cinemalu.png" group-title="Movies",Zee Cinemalu 
+http://192.168.0.102:3500/getm3u8/413/Zee_Cinemalu/no
+#EXTINF:1 tvg-logo="http://192.168.0.102:3500/channelLogo/ETV_Telugu.png" group-title="Entertainment",ETV Telugu 
+http://192.168.0.102:3500/getm3u8/629/ETV_Telugu/no
+#EXTINF:1 tvg-logo="http://192.168.0.102:3500/channelLogo/ETV_Cinema.png" group-title="Movies",ETV Cinema 
+http://192.168.0.102:3500/getm3u8/252/ETV_Cinema/no
+#EXTINF:1 tvg-logo="http://192.168.0.102:3500/channelLogo/ETV_Plus.png" group-title="Entertainment",ETV Plus 
+http://192.168.0.102:3500/getm3u8/692/ETV_Plus/no
+#EXTINF:1 tvg-logo="http://192.168.0.102:3500/channelLogo/ETV_Life.png" group-title="Infotainment",ETV Life 
+http://192.168.0.102:3500/getm3u8/570/ETV_Life/no
 #EXTINF:-1 tvg-id="HBOFamilyAsiaFeed.us" tvg-name="HBO Family [Asia Feed]" tvg-country="US" tvg-language="" tvg-logo="https://static.epg.best/us/HBOFamily.us.png" group-title="Family",HBO Family [Asia Feed]
 https://liveorigin01.hbogoasia.com:8443/origin/live/FAMILY/index.m3u8
 #EXTINF:-1 tvg-id="HBOFamily.us" tvg-name="HBO Family" tvg-country="US" tvg-language="English" tvg-logo="https://static.epg.best/us/HBOFamily.us.png" group-title="Family",HBO Family
@@ -21,6 +55,8 @@ https://s.vdo.ai/vhs/1.m3u8
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
 #EXTINF:-1 tvg-id="AndFlix.in" tvg-name="&Flix" tvg-country="IN" tvg-language="" tvg-logo="https://static.epg.best/in/AndFlix.in.png" group-title="Movies",&Flix
 https://f8e7y4c6.ssl.hwcdn.net/andflixhd/index.m3u8
+#EXTINF:-1 tvg-id="STARMOVIEMIHDSTIRR.us" tvg-name="STAR MOVIEMI HD (STIRR)" tvg-country="US" tvg-language="English" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT2kTZnEQilym8ptRCEoFwFHsTvp0m_y-VOdvWZSFErs4Nyke_m&usqp=CAU" group-title="",STAR MOVIEMI HD (STIRR)
+https://sonar.sinclair.wurl.com/manifest/playlist.m3u8
 #EXTINF:1 tvg-logo="http://192.168.0.102:3500/channelLogo/Colors_Infinity_HD.png" group-title="Entertainment",Colors Infinity HD 
 http://192.168.0.102:3500/getm3u8/1158/Colors_Infinity_HD/yes
 #EXTINF:1 tvg-logo="http://192.168.0.102:3500/channelLogo/Comedy_Central_HD.png" group-title="Entertainment",Comedy Central HD 
@@ -29,6 +65,14 @@ http://192.168.0.102:3500/getm3u8/1157/Comedy_Central_HD/yes
 http://192.168.0.102:3500/getm3u8/762/Sony_Pix_HD/yes
 #EXTINF:1 tvg-logo="http://192.168.0.102:3500/channelLogo/Six_HD.png" group-title="Sports",Sony Six HD 
 http://192.168.0.102:3500/getm3u8/155/Six_HD/yes
+#EXTINF:-1 group-title="Sony Liv",SONY TEN 1 HD
+https://bit.ly/2B9tEN1hd
+#EXTINF:-1 group-title="Sony Liv",SONY TEN 2 HD
+https://bit.ly/2DOtEN2hd
+#EXTINF:-1 group-title="Sony Liv",SONY TEN 3 HD
+https://bit.ly/2OwtEn3hd
+#EXTINF:-1 group-title="Sony Liv",SONY MAX HD
+https://bit.ly/32bsOnymAXhd
 #EXTINF:1 tvg-logo="http://192.168.0.102:3500/channelLogo/Discovery_HD_World.png" group-title="Infotainment",Discovery HD World 
 http://192.168.0.102:3500/getm3u8/463/Discovery_HD_World/yes
 #EXTINF:1 tvg-logo="http://192.168.0.102:3500/channelLogo/Animal_Planet_HD.png" group-title="Infotainment",Animal Planet HD World 
@@ -37,20 +81,10 @@ http://192.168.0.102:3500/getm3u8/286/Animal_Planet_HD/yes
 http://192.168.0.102:3500/getm3u8/146/History_HD/yes
 #EXTINF:1 tvg-logo="http://192.168.0.102:3500/channelLogo/Sony_BBC_Earth_HD.png" group-title="Infotainment",Sony BBC Earth HD 
 http://192.168.0.102:3500/getm3u8/821/Sony_BBC_Earth_HD/yes
-#EXTINF:1 tvg-logo="http://192.168.0.102:3500/channelLogo/Jaya_TV_HD.png" group-title="Entertainment",Jaya TV HD 
-http://192.168.0.102:3500/getm3u8/419/Jaya_TV_HD/yes
-#EXTINF:1 tvg-logo="http://192.168.0.102:3500/channelLogo/Zee_Telugu.png" group-title="Entertainment",Zee Telugu 
-http://192.168.0.102:3500/getm3u8/638/Zee_Telugu/no
-#EXTINF:1 tvg-logo="http://192.168.0.102:3500/channelLogo/ETV_Telugu.png" group-title="Entertainment",ETV Telugu 
-http://192.168.0.102:3500/getm3u8/629/ETV_Telugu/no
-#EXTINF:1 tvg-logo="http://192.168.0.102:3500/channelLogo/ETV_Cinema.png" group-title="Movies",ETV Cinema 
-http://192.168.0.102:3500/getm3u8/252/ETV_Cinema/no
-#EXTINF:1 tvg-logo="http://192.168.0.102:3500/channelLogo/ETV_Plus.png" group-title="Entertainment",ETV Plus 
-http://192.168.0.102:3500/getm3u8/692/ETV_Plus/no
-#EXTINF:1 tvg-logo="http://192.168.0.102:3500/channelLogo/ETV_Life.png" group-title="Infotainment",ETV Life 
-http://192.168.0.102:3500/getm3u8/570/ETV_Life/no
-#EXTINF:1 tvg-logo="http://192.168.0.102:3500/channelLogo/Zee_Cinemalu.png" group-title="Movies",Zee Cinemalu 
-http://192.168.0.102:3500/getm3u8/413/Zee_Cinemalu/no
+#EXTINF:1 tvg-logo="http://192.168.0.102:3500/channelLogo/Discovery_Turbo.png" group-title="Infotainment",Discovery Turbo 
+http://192.168.0.102:3500/getm3u8/541/Discovery_Turbo/no
+#EXTINF:1 tvg-logo="http://192.168.0.102:3500/channelLogo/Travel_XP_HD.png" group-title="Lifestyle",Travel XP HD 
+http://192.168.0.102:3500/getm3u8/164/Travel_XP_HD/yes
 #EXTINF:1 tvg-logo="http://192.168.0.102:3500/channelLogo/NDTV_24x7.png" group-title="News",NDTV 24x7 
 http://192.168.0.102:3500/getm3u8/255/NDTV_24x7/no
 #EXTINF:1 tvg-logo="http://192.168.0.102:3500/channelLogo/India_Today.png" group-title="News",India Today 
@@ -63,7 +97,11 @@ http://192.168.0.102:3500/getm3u8/495/News_X/no
 http://192.168.0.102:3500/getm3u8/412/Wion/no
 #EXTINF:1 tvg-logo="http://192.168.0.102:3500/channelLogo/Republic_TV.png" group-title="News",Republic TV 
 http://192.168.0.102:3500/getm3u8/858/Republic_TV/no
-#EXTINF:-1 tvg-id="StarWorldHD.in" tvg-name="Star World HD" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",Star World HD
-http://212.224.98.196:2200/R-EX/ENGLISH_STAR_WORLD_HD-in/index.m3u8?token=
-#EXTINF:-1 tvg-id="FOX.us" tvg-name="FOX" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/992gw0d.png" group-title="General",FOX
-https://cdn1.mobiletv.bg/T13/fox/fox_794613_850k.m3u8
+#EXTINF:1 tvg-logo="http://192.168.0.102:3500/channelLogo/Sri_Venkateshwar_Bhakti.png" group-title="Devotional",Sri Venkateshwar Bhakti 
+http://192.168.0.102:3500/getm3u8/598/Sri_Venkateshwar_Bhakti/no
+#EXTINF:1 tvg-logo="http://192.168.0.102:3500/channelLogo/Sri_Sankara.png" group-title="Devotional",Sri Sankara 
+http://192.168.0.102:3500/getm3u8/829/Sri_Sankara/no
+#EXTINF:1 tvg-logo="http://192.168.0.102:3500/channelLogo/Bhakti_TV.png" group-title="Devotional",Bhakti TV 
+http://192.168.0.102:3500/getm3u8/776/Bhakti_TV/no
+#EXTINF:1 tvg-logo="http://192.168.0.102:3500/channelLogo/CN_HD_English.png" group-title="Kids",CN HD+ English 
+http://192.168.0.102:3500/getm3u8/1079/CN_HD_English/yes
