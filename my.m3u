@@ -23,6 +23,10 @@ http://192.168.0.100:3500/getm3u8/429/Colors_Tamil_HD/yes
 http://192.168.0.100:3500/getm3u8/847/MK_TV/no
 #EXTINF:1 tvg-logo="http://192.168.0.100:3500/channelLogo/MK_Music.png" group-title="Music",MK Music 
 http://192.168.0.100:3500/getm3u8/845/MK_Music/no
+#EXTINF:-1 tvg-id="3TamilTV.in" tvg-name="3 Tamil TV" tvg-country="IN" tvg-language="Tamil" tvg-logo="https://i.imgur.com/WfAU7pB.png" group-title="Entertainment",3 Tamil TV (720p)
+https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
+#EXTINF:-1 tvg-id="7SMusic.in" tvg-name="7S Music" tvg-country="IN" tvg-language="Tamil" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2019/07/7s_music.png" group-title="Music",7S Music (576p)
+http://103.199.161.254/Content/7smusic/Live/Channel(7smusic)/index.m3u8
 #EXTINF:1 tvg-logo="http://192.168.0.100:3500/channelLogo/Puthiya_Thalimurai.png" group-title="News",Puthiya Thalimurai 
 http://192.168.0.100:3500/getm3u8/677/Puthiya_Thalimurai/no
 #EXTINF:1 tvg-logo="http://192.168.0.100:3500/channelLogo/Thanthi_TV.png" group-title="News",Thanthi TV 
@@ -61,8 +65,14 @@ https://sonar.sinclair.wurl.com/manifest/playlist.m3u8
 http://192.168.0.100:3500/getm3u8/1158/Colors_Infinity_HD/yes
 #EXTINF:1 tvg-logo="http://192.168.0.100:3500/channelLogo/Comedy_Central_HD.png" group-title="Entertainment",Comedy Central HD 
 http://192.168.0.100:3500/getm3u8/1157/Comedy_Central_HD/yes
+#EXTINF:-1 tvg-id="ZeeCafe.in" tvg-name="Zee Cafe" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",Zee Cafe
+https://f8e7y4c6.ssl.hwcdn.net/zeecafehd/playlist.m3u8
 #EXTINF:1 tvg-logo="http://192.168.0.100:3500/channelLogo/Sony_Pix_HD.png" group-title="Movies",Sony Pix HD 
 http://192.168.0.100:3500/getm3u8/762/Sony_Pix_HD/yes
+#EXTINF:-1 tvg-id="ZeeCinemaUK.in" tvg-name="Zee Cinema UK" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",Zee Cinema UK
+https://f8e7y4c6.ssl.hwcdn.net/cinemauk/playlist.m3u8
+#EXTINF:-1 tvg-id="ZeeCinemaUSA.in" tvg-name="Zee Cinema USA" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",Zee Cinema USA
+https://y5w8j4a9.ssl.hwcdn.net/cinemausa/playlist.m3u8
 #EXTINF:1 tvg-logo="http://192.168.0.100:3500/channelLogo/Six_HD.png" group-title="Sports",Sony Six HD 
 http://192.168.0.100:3500/getm3u8/155/Six_HD/yes
 #EXTINF:-1 group-title="Sony Liv",SONY TEN 1 HD
